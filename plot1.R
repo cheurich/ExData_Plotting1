@@ -1,8 +1,8 @@
 # **Electric Power Consumption**
 # **1. Base Plotting Example**
-#########################
+##########################
 # This is "plot1.R"
-#########################
+##########################
 
 ## Install and load the libraries
 install.packages("data.table")
