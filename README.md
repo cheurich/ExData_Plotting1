@@ -7,6 +7,50 @@
 
 The purpose of this project is to conduct Exploratory Data Analysis on the the “Individual household electric power consumption Data Set” from the UC Irvine Machine Learning Repository, available on "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip". 
 
+## This Repo includes the following
+
+* *"README.md"*: Gives some general information about this project.
+
+* *"CodeBook.md"*: Describes the variables.
+
+* *"plot1.R"*: The R script, contains all the code instructions needed, to output the "plot1.png".
+
+* *"plot2.R"*: The R script, contains all the code instructions needed, to output the "plot2.png".
+
+* *"plot3.R"*: The R script, contains all the code instructions needed, to output the "plot3.png".
+
+* *"plot4.R"*: The R script, contains all the code instructions needed, to output the "plot4.png".
+
+* *"generated_figures"*: The folder contains the 4 new generated plots.  
+
+* *"plot1.png"*: The 1st plot about: Frequency depending on Global Active Power
+
+* *"plot2.png"*: The 2nd plot about: Global Active Power depending on Time
+
+* *"plot3.png"*: The 3rd plot about: Energy sub metering depending on Time
+
+* *"plot4.png"*: The 4th plot about: Multiplot Electric Power Consumption
+
+
+The four new plots are in the new folder *"generated_figures"*. 
+
+### Plot 1 generated with the "plot1.R" script
+
+![plot1 of Frequency depending on Global Active Power](generated_figures/plot1.png)
+
+### Plot 2 generated with the "plot2.R" script
+
+![plot2 of Global Active Power depending on Time](generated_figures/plot2.png) 
+
+### Plot 3 generated with the "plot3.R" script
+
+![plot3 of Energy sub metering depending on Time](generated_figures/plot3.png) 
+
+### Plot 4 generated with the "plot4.R" script
+
+![plot4 of Multiplot Electric Power Consumption](generated_figures/plot4.png) 
+
+
 ## Introduction
 
 This assignment uses data from
@@ -98,45 +142,5 @@ GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
 
-## This Repo includes the following files
 
-The four R scripts:
-
-* *"README.md"*: Gives some general information about this project.
-
-* *"CodeBook.md"*: Describes the variables.
-
-* *"plot1.R"*: The R script, contains all the code instructions needed, to output the "plot1.png".
-
-* *"plot2.R"*: The R script, contains all the code instructions needed, to output the "plot2.png".
-
-* *"plot3.R"*: The R script, contains all the code instructions needed, to output the "plot3.png".
-
-* *"plot4.R"*: The R script, contains all the code instructions needed, to output the "plot4.png".
-
-* *"plot1.png"*: The 1st plot about:
-
-* *"plot2.png"*: The 2nd plot about:
-
-* *"plot3.png"*: The 3rd plot about:
-
-* *"plot4.png"*: The 4th plot about:
-
-The four new plots are in the new folder "generated_figures". 
-
-### Plot 1 generated with the "plot1.R" script
-
-![plot1 of Frequency depending on Global Active Power](generated_figures/plot1.png)
-
-### Plot 2 generated with the "plot2.R" script
-
-![plot2 of Global Active Power depending on Time](generated_figures/plot2.png) 
-
-### Plot 3 generated with the "plot3.R" script
-
-![plot3 of Energy sub metering depending on Time](generated_figures/plot3.png) 
-
-### Plot 4 generated with the "plot4.R" script
-
-![plot4 of Multiplot Electric Power Consumption](generated_figures/plot4.png) 
 
