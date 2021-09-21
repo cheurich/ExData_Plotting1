@@ -42,7 +42,7 @@ df <- mutate(df, Datetime=str_c(df$Date, ' ', df$Time))
 df <- mutate(df, Weekday=format(df$Date, format = "%a"))
 
 ## Plot the data
-### Plot1: Frequency depending on Global Active Power (kilowatts)
+### Plot1: Global Active Power Frequency
 
 hist(as.numeric(df$Global_active_power), col="red", breaks=25, xlab="Global Active Power (kilowatts)", main="Global Active Power")
 rug(as.numeric(df$Global_active_power))

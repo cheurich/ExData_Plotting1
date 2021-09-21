@@ -23,7 +23,7 @@ The purpose of this project is to conduct Exploratory Data Analysis on the the â
 
 * *"generated_figures"*: The folder contains the 4 new generated plots.  
 
-* *"plot1.png"*: The 1st plot about: Frequency depending on Global Active Power
+* *"plot1.png"*: The 1st plot about: Global Active Power Frequency
 
 * *"plot2.png"*: The 2nd plot about: Global Active Power depending on Time
 
@@ -36,7 +36,7 @@ The four new plots are in the new folder *"generated_figures"*.
 
 ### Plot 1 generated with the "plot1.R" script
 
-![plot1 of Frequency depending on Global Active Power](generated_figures/plot1.png)
+![plot1 of Global Active Power Frequency](generated_figures/plot1.png)
 
 ### Plot 2 generated with the "plot2.R" script
 
